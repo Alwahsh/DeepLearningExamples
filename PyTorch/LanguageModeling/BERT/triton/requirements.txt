@@ -14,7 +14,7 @@
 model_navigator[pyt] @ git+https://github.com/triton-inference-server/model_navigator.git@v0.2.3#egg=model_navigator
 natsort>=7.0.0
 networkx==2.5
-numpy
+numpy==1.21.6
 onnx==1.8.1
 onnxruntime-gpu==1.8.1
 pycuda>=2019.1.2
